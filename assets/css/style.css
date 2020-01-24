@@ -1,0 +1,116 @@
+.logo-tittle{
+  font-family: 'Pacifico', cursive;
+  color: #DEF4F3;
+}
+
+.bg-dark {
+    background-color: #072322!important;
+}
+
+
+
+.texto-centro{
+  text-align: center;
+  padding-top: 10px;
+
+}
+.card-deck{
+  margin-top: 50px;
+  padding-bottom: 50px;
+}
+#cartas{
+  background:#4C5260;
+
+
+}
+#ultimos-trabajos{
+  color:black;
+
+  padding-top: 5%;
+/*  margin-top: 5%;*/
+  color: #DEF4F3;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color:#DEF4F3;
+
+}
+footer{
+  background-color: #072322;
+  height: 218px;
+}
+.logo-final{
+     color: white;
+
+}
+footer .row{
+  padding-top: 30px;
+
+}
+.text-center hr{
+  color: white;
+  height: 2px;
+  background-color: white;
+}
+
+.text-center h2{
+  padding-top: 30px;
+  font-size: 2rem;
+  font-family: 'Play', sans-serif;
+}
+.bg-secondary {
+     background-color: #072322!important;
+}
+
+
+}
+.redes-sociales{
+  text-align: left;
+}
+.col-12{
+  margin-top: 70px;
+  margin-bottom: 60px;
+}
+
+#carrusel{
+  background-color:#4c5260;
+}
+
+
+
+.hero-section{
+  text-align: right;
+  background-image: url(../img/raul.catalan.JPG);
+  background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    text-shadow: 2px 3px 2px #707070;
+    padding: 90px 150px 250px 50px;
+    background-position: 0rem -15rem;
+    font-family: 'Permanent Marker', cursive;
+
+}
+
+.hero-section h1{
+  font-size: 10rem;
+
+  }
+  .hero-section h3{
+    font-size: 7rem;
+  }
+  #cartas hr{
+    height: 2px;
+    text-align: center;
+    width: 40%;
+    background-color: white;
+  }
+header hr{
+  height: 2px;
+  text-align: right;
+  width: 100px;
+  background-color: white;
+
+}
+.col-3 i {
+  font-size: 3rem;
+}
