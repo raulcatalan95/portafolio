@@ -101,8 +101,8 @@ footer .row{
   #cartas hr{
     height: 2px;
     text-align: center;
-    width: 40%;
-    background-color: white;
+    width: 170px;
+    background-color:#DEF4F3 ;
   }
 header hr{
   height: 2px;
@@ -137,5 +137,22 @@ header hr{
 }
 .col-6 p{
   color: #DEF4F3;
-  
+
+}
+.carousel-item img {
+  width: 500px;
+  height: 500px;
+  text-align: center;
+}
+#carouselExampleControls{
+  width: 500px;
+  height: 500px;
+
+}
+.carousel-inner{
+  text-align: center;
+
+}
+span{
+  color:red;
 }
