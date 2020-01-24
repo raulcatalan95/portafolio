@@ -84,7 +84,7 @@ footer .row{
   background-repeat: no-repeat;
     background-size: cover;
     color: #ffffff;
-    text-shadow: 2px 3px 2px #707070;
+    text-shadow: 5px 5px 5px #707070;
     padding: 90px 150px 250px 50px;
     background-position: 0rem -15rem;
     font-family: 'Permanent Marker', cursive;
@@ -113,4 +113,29 @@ header hr{
 }
 .col-3 i {
   font-size: 3rem;
+  color:#DEF4F3;
+}
+#sobre-mi hr{
+  background-color: #DEF4F3;
+  height: 2px;
+  width: 150px;
+}
+#sobre-mi{
+  background-color:#4c5260;
+}
+#sobre-mi article{
+  height: 153px;
+  width: 968px;
+  text-align: center;
+  padding-top: 30px;
+  color:#DEF4F3;
+}
+#sobre-mi article h3{
+  font-size:3rem;
+  font-family: 'Play', sans-serif;
+
+}
+.col-6 p{
+  color: #DEF4F3;
+  
 }
