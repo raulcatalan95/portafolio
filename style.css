@@ -1,0 +1,226 @@
+.logo-tittle{
+  font-family: 'Pacifico', cursive;
+  color: #DEF4F3;
+}
+
+.bg-dark {
+    background-color: #072322!important;
+}
+
+
+
+.texto-centro{
+  text-align: center;
+  padding-top: 10px;
+
+}
+.card{
+  border-radius: 20px 20px;
+}
+.card img{
+  border-radius:20px 20px 0px 0px;
+}
+
+.card-deck{
+  margin-top: 50px;
+  padding-bottom: 50px;
+}
+
+.card-body{
+  background-color: #072322;
+  border-radius: 0px 0px 20px 20px
+
+}
+.card-body h5{
+  color: #DEF4F3;
+  font-size: 2rem;
+  margin:auto;
+  text-align: center;
+  font-family: 'Play', sans-serif;
+
+
+
+}
+
+
+#cartas{
+  background:#4C5260;
+
+
+}
+#ultimos-trabajos{
+
+  font-family: 'Play', sans-serif;
+
+  padding-top: 5%;
+/*  margin-top: 5%;*/
+  color: #DEF4F3;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color:#DEF4F3;
+
+}
+footer{
+  background-color: #072322;
+  height: 218px;
+}
+.logo-final{
+     color: white;
+
+}
+footer .row{
+  padding-top: 30px;
+
+}
+.text-center hr{
+  color: white;
+  height: 2px;
+  background-color: white;
+}
+
+.text-center h2{
+  padding-top: 30px;
+  font-size: 2rem;
+  font-family: 'Play', sans-serif;
+}
+.bg-secondary {
+     background-color: #072322!important;
+}
+
+
+}
+.redes-sociales{
+  text-align: left;
+}
+.col-12{
+  margin-top: 70px;
+  margin-bottom: 60px;
+}
+
+#carrusel{
+  background-color:#4c5260;
+}
+
+
+
+.portada{
+  text-align: right;
+  background-image: url(../img/raul.catalan.JPG);
+  background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    text-shadow: 5px 5px 5px #707070;
+    padding: 90px 150px 250px 50px;
+    background-position: 0rem -15rem;
+    font-family: 'Permanent Marker', cursive;
+
+}
+
+.portada h1{
+  font-size: 10rem;
+
+  }
+  .portada h3{
+    font-size: 7rem;
+  }
+  #cartas hr{
+    height: 2px;
+    text-align: center;
+    width: 170px;
+    background-color:#DEF4F3 ;
+  }
+header hr{
+  height: 2px;
+  text-align: right;
+  width: 100px;
+  background-color: white;
+
+}
+.col-3 i {
+  font-size: 3rem;
+  color:#DEF4F3;
+}
+#sobre-mi hr{
+  background-color: #DEF4F3;
+  height: 2px;
+  width: 150px;
+}
+#sobre-mi{
+  background-color:#4c5260;
+}
+#sobre-mi .col-12{
+  height: 153px;
+  width: 968px;
+  text-align: center;
+  padding-top: 30px;
+  color:#DEF4F3;
+}
+#sobre-mi .col-12 h3{
+  font-size:3rem;
+  font-family: 'Play', sans-serif;
+
+}
+#sobre-mi #parrafos{
+  padding-bottom: 40px;
+}
+.col-6 p{
+  color: #DEF4F3;
+
+}
+.carousel-item img {
+  width: 500px;
+  height: 500px;
+  text-align: center;
+  padding-bottom: 60px;
+  border-radius: 20%;
+}
+#carouselExampleControls{
+  width: 500px;
+  height: 500px;
+
+}
+.carousel-inner{
+  text-align: center;
+
+}
+span{
+  color:red;
+}
+.mis-experiencias{
+  background-color: #4c5260;
+}
+.mis-experiencias h1{
+  text-align: center;
+  color: #DEF4F3;
+    font-family: 'Play', sans-serif;
+}
+#experiencias hr{
+  height: 2px;
+  background-color: #DEF4F3;
+  width:150px;
+}
+.mis-experiencias article{
+  padding: 30px;
+}
+#contact{
+  background-color: #4c5260;
+  padding-bottom: 40px;
+}
+#contact h2{
+  font-family: 'Play', sans-serif;
+color:#DEF4F3;
+
+
+}
+.tit-contacto hr{
+  height: 2px;
+  background-color: white;
+  width: 150px;
+  text-align: center;
+}
+.nav-item a button{
+  background-color:#072322;
+  border-color: #072322;
+  color: #DEF4F3;
+}
